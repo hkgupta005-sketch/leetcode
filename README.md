@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/hkgupta005-sketch/leetcode/tree/master/0027-remove-element) |
 | [1512-number-of-good-pairs](https://github.com/hkgupta005-sketch/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hkgupta005-sketch/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## String
@@ -22,4 +23,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/hkgupta005-sketch/leetcode/tree/master/1512-number-of-good-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/hkgupta005-sketch/leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
