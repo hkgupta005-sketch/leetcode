@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hkgupta005-sketch/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hkgupta005-sketch/leetcode/tree/master/0027-remove-element) |
 | [1512-number-of-good-pairs](https://github.com/hkgupta005-sketch/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hkgupta005-sketch/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/hkgupta005-sketch/leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hkgupta005-sketch/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hkgupta005-sketch/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String Matching
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hkgupta005-sketch/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/hkgupta005-sketch/leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
