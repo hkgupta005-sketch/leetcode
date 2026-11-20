@@ -12,10 +12,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hkgupta005-sketch/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0771-jewels-and-stones](https://github.com/hkgupta005-sketch/leetcode/tree/master/0771-jewels-and-stones) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/hkgupta005-sketch/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
+| [0771-jewels-and-stones](https://github.com/hkgupta005-sketch/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/hkgupta005-sketch/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Math
 |  |
