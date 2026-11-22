@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/hkgupta005-sketch/leetcode/tree/master/1512-number-of-good-pairs) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/hkgupta005-sketch/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Counting
 |  |
 | ------- |
